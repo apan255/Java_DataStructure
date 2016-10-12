@@ -3,7 +3,7 @@ import java.math.BigInteger;
 /**
  * Tests Frac class.
  * 
- * @author robertirwin
+
  *
  */
 
