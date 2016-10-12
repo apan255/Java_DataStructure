@@ -6,8 +6,7 @@ import java.util.regex.MatchResult;
  * The <code>Frac</code> class represents fractions (i.e., rational numbers).  
  * <code>Frac</code> values are always maintained in normalized form (see
  * {@link #reduce() reduce()} below).
- *  
- * @author RJ Irwin
+
  */
 public class Frac
 {
