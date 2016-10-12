@@ -1,7 +1,6 @@
 /**
  * Driver - for MyHashTable generic class.
- * 
- * @author robertirwin
+
  *
  */
 
