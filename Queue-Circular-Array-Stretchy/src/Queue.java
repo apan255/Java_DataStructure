@@ -3,7 +3,7 @@
  *             max #elements storeable is 1 less than the size of array,
  *             so we can distinguish between full and empty conditions.
  *  
- * @author robertirwin
+
  *
  * @param <E>
  */
