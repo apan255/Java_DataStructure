@@ -13,6 +13,7 @@ public class ReportGeneratorImpl extends UnicastRemoteObject implements ReportGe
 
 	@Override
 	public String generateDailyReport() throws RemoteException {
+		
 		StringBuilder sb = new StringBuilder();
 		sb.append("********************Location X Daily Report********************");
 		sb.append("\\n Location ID: 012");
