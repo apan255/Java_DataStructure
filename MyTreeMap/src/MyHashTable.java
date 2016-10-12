@@ -1,8 +1,7 @@
 /**
  *  MyHashTable - implementation of generic Hash Table class, 
  *                similar to Java HashMap<K,V> class.
- *  
- * @author robertirwin
+
  */
 
 import java.util.Arrays;
